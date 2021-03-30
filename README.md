@@ -1,1 +1,3 @@
-# Sample-React-State
+# useState
+
+Example code demonstrating the useState hook from React
